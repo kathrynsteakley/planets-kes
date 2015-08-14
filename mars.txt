@@ -1,2 +1,3 @@
 mars is red
-mars is dustyEthan is going to mars
+mars is dusty
+Ethan is going to mars
